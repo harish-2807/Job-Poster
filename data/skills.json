@@ -1,0 +1,17 @@
+[
+  {"id":"s1","name":"TypeScript","category":"Engineering"},
+  {"id":"s2","name":"React","category":"Engineering"},
+  {"id":"s3","name":"Next.js","category":"Engineering"},
+  {"id":"s4","name":"Node.js","category":"Engineering"},
+  {"id":"s5","name":"Python","category":"Engineering"},
+  {"id":"s6","name":"SQL","category":"Data"},
+  {"id":"s7","name":"Machine Learning","category":"Data"},
+  {"id":"s8","name":"Figma","category":"Design"},
+  {"id":"s9","name":"Design Systems","category":"Design"},
+  {"id":"s10","name":"Product Strategy","category":"Product"},
+  {"id":"s11","name":"Go-to-Market","category":"Marketing"},
+  {"id":"s12","name":"Content Strategy","category":"Marketing"},
+  {"id":"s13","name":"Customer Research","category":"Research"},
+  {"id":"s14","name":"Salesforce","category":"Sales"},
+  {"id":"s15","name":"Security Auditing","category":"Security"}
+]

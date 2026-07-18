@@ -1,0 +1,17 @@
+[
+  {"id":"c1","name":"Google","slug":"google","logo":"G","industry":"AI Infrastructure","location":"San Francisco, CA","size":"201-500","tagline":"Building the next generation of developer tooling","hiring":true},
+  {"id":"c2","name":"Microsoft","slug":"microsoft","logo":"M","industry":"HealthTech","location":"New York, NY","size":"501-1000","tagline":"Modern care platforms for global teams","hiring":true},
+  {"id":"c3","name":"Amazon","slug":"amazon","logo":"A","industry":"Design Systems","location":"Chicago, IL","size":"51-200","tagline":"Crafting elegant product experiences","hiring":true},
+  {"id":"c4","name":"Netflix","slug":"netflix","logo":"N","industry":"Cloud Platforms","location":"Austin, TX","size":"1001+","tagline":"Enterprise-grade infrastructure at scale","hiring":false},
+  {"id":"c5","name":"Adobe","slug":"adobe","logo":"A","industry":"Fintech","location":"Remote","size":"201-500","tagline":"Financial products for ambitious teams","hiring":true},
+  {"id":"c6","name":"Atlassian","slug":"atlassian","logo":"A","industry":"Enterprise AI","location":"Seattle, WA","size":"51-200","tagline":"Applied AI for modern operations","hiring":true},
+  {"id":"c7","name":"Spotify","slug":"spotify","logo":"S","industry":"Consumer Products","location":"Denver, CO","size":"51-200","tagline":"Bringing delight to everyday digital products","hiring":true},
+  {"id":"c8","name":"Airbnb","slug":"airbnb","logo":"A","industry":"Developer Tools","location":"Remote","size":"201-500","tagline":"Helping teams ship faster with better systems","hiring":true},
+  {"id":"c9","name":"Uber","slug":"uber","logo":"U","industry":"Venture Platform","location":"Boston, MA","size":"11-50","tagline":"Backing ambitious product-led companies","hiring":false},
+  {"id":"c10","name":"Stripe","slug":"stripe","logo":"S","industry":"Mobility","location":"Los Angeles, CA","size":"201-500","tagline":"Designing software for the future of transport","hiring":true},
+  {"id":"c11","name":"Notion","slug":"notion","logo":"N","industry":"Energy Tech","location":"Houston, TX","size":"501-1000","tagline":"Reimagining energy infrastructure for the climate era","hiring":true},
+  {"id":"c12","name":"Slack","slug":"slack","logo":"S","industry":"Commerce","location":"Miami, FL","size":"51-200","tagline":"Reimagining e-commerce from the ground up","hiring":false},
+  {"id":"c13","name":"Shopify","slug":"shopify","logo":"S","industry":"Cybersecurity","location":"Remote","size":"201-500","tagline":"Protecting digital systems with thoughtful design","hiring":true},
+  {"id":"c14","name":"Salesforce","slug":"salesforce","logo":"S","industry":"Data Platforms","location":"Portland, OR","size":"51-200","tagline":"Unified analytics for modern organizations","hiring":true},
+  {"id":"c15","name":"Oracle","slug":"oracle","logo":"O","industry":"Media Tech","location":"Atlanta, GA","size":"101-200","tagline":"Bringing immersive storytelling to life","hiring":true}
+]
