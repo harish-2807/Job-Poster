@@ -88,3 +88,17 @@ Northstar Jobs is a premium, design-forward, frontend-only job board experience 
 - **Resume Parser**: Allow users to upload resumes in the profile section and auto-fill application forms.
 - **Interactive Analytics**: Add a dashboard for employers to track application views and click-through rates.
 - **Real-time Chat**: Implement a mock real-time messaging system between candidates and hiring managers.
+
+
+## 🚀 Deployment
+
+The application is deployed on **Vercel** and is accessible through the live demo link below.
+
+| Resource | Link |
+|----------|------|
+| 🌐 Live Demo (Vercel) | https://job-poster-kappa.vercel.app/ |
+| 📂 GitHub Repository | https://github.com/harish-2807/Job-Poster |
+| 📖 Project Documentation (PDF) | https://drive.google.com/file/d/1Ay-RZfeosRcd8DcKap2IZ01Wjc6mWSFJ/view?usp=sharing |
+| Demo video - https://drive.google.com/file/d/1l9y3QXXHcdzy3PGRG3-KMeksGZUuXenn/view?usp=sharing
+
+> **Note:** The application is automatically deployed through a GitHub Actions CI/CD pipeline. Every successful push to the main branch triggers a new build and deployment on Vercel.
